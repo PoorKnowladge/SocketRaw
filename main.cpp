@@ -1,3 +1,19 @@
+/*
+=========================================
+  Author  : Bitswif
+  GitHub  : https://github.com/PoorKnowladge
+  IG      : @bitswif
+  Project : Create TCP Connection Manually with c++ and API(POSIX)
+  Date    : 7 - 09 - 2024
+  Desc    : The purpose of this code is to inspire innovation and invite network experts to further examine and improve upon any shortcomings in the code
+  =========================================
+  
+  "Innovation meets simplicity." - Bitswif
+  
+=========================================
+*/
+
+
 #include <iostream>
 #include <cstring>
 #include <sys/socket.h>
